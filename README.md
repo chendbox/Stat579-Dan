@@ -1,7 +1,7 @@
 # Stat579-Dan
 creating a first repo for stat 579
 
-(User) Dan chen
+(User) Dan Chen
 
 In the past month, I traveled to China to manage projects rountinely. \
 
